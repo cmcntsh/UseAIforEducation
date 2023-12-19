@@ -3,7 +3,9 @@
 * https://airtable.com/appOfAfWh27rexTJp/shrx8UbfrXROuasFJ/tblWvgmG1HRibK15g
 * https://airtable.com/appOfAfWh27rexTJp/shrCrbi4wMgXMyVt0/tblWvgmG1HRibK15g
 
-## Create Grading Rubric
+## Create a Grading Rubric
+
+### Create the Rubric with AI
 
 * https://bard.google.com/chat
 
