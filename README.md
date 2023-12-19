@@ -10,5 +10,5 @@
 Prompt
 
 ```
-Please create a grading rubric for college writing with four levels and five categories. Level four should be the best and highest. The categories should include 1) Content & Analysis, 2) Grammar & Punctuation, 3) Logic & Flow, 4) Style & Voice, 5)APA Formatting.
+Please create a grading rubric in tabular format for college writing with four levels and five categories. Level four should be the best and highest. The categories should include 1) Content & Analysis, 2) Grammar & Punctuation, 3) Logic & Flow, 4) Style & Voice, 5)APA Formatting.
 ```
