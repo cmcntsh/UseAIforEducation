@@ -19,3 +19,7 @@ Please create a grading rubric in tabular format for college writing with four l
 
 * You can copy the rubric directly from ChatGPT or Bard and paste it into Excel.
 * You should be able to copy the rubric from Excel and paste it into Canvas using a Chrome extension called TamperMonkey and an Imported script for TamperMonkey called Rubric Importer. Here's a demonstration: https://www.youtube.com/watch?v=pvVoyDJWA8s
+
+## Grade Academic Writing and Provide Suggestions for Improvement
+
+See examples at https://github.com/cmcntsh/QualImpAIGrading
