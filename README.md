@@ -46,3 +46,30 @@ Prompt
 Please give me 4 multiple choice options for the question: [your question here]
 ```
 
+### Generate questions and answers based on background information
+
+* https://www.youtube.com/watch?v=b71oeaKoDZE
+
+Prompt to supply background information:
+
+```
+Hello. Today we are going to write mulitple choice questions to help us train for a [topic] exam. I am going to feed you some information.
+```
+
+Prompt to provide example questions:
+
+```
+Now I will give you five examples of what I want the multiple choice questions to look like.
+```
+
+Prompt to verify understanding:
+
+```
+Do you understand what multiple choice questions relevant to this [topic] exam look like? Y or N
+```
+
+Prompt to create new questions:
+
+```
+Please create your own set of 5 multiple choice questions for this [topic] exam. You will create questions with 5 possible responses, only 1 being correct. Take inspiration from the formatting of the example questions. Don't copy them, but use the same format. You will also provide feedback for each correct answer making reference to the [topic]. Make sure you provide the feedback to the correct answer.
+```
