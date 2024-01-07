@@ -23,3 +23,26 @@ Please create a grading rubric in tabular format for college writing with four l
 ## Grade Academic Writing and Provide Suggestions for Improvement
 
 See examples at https://github.com/cmcntsh/QualImpAIGrading
+
+## Create Quiz Questions
+
+### Generate Questions
+
+* https://www.youtube.com/watch?v=sYrvbdD1qAs
+
+Prompt
+
+```
+Please give me four questions that ask about [your topic here].
+```
+
+### Generate Answer Options
+
+* https://www.youtube.com/watch?v=sYrvbdD1qAs
+
+Prompt
+
+```
+Please give me 4 multiple choice options for the question: [your question here]
+```
+
