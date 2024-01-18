@@ -24,6 +24,10 @@ Please create a grading rubric in tabular format for college writing with four l
 
 See examples at https://github.com/cmcntsh/QualImpAIGrading
 
+## Universal Design Guidelines
+
+* https://udlguidelines.cast.org/
+
 ## Create Quiz Questions
 
 ### Generate Questions
