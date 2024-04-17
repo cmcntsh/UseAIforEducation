@@ -2,6 +2,8 @@
 
 * https://airtable.com/appOfAfWh27rexTJp/shrx8UbfrXROuasFJ/tblWvgmG1HRibK15g
 * https://airtable.com/appOfAfWh27rexTJp/shrCrbi4wMgXMyVt0/tblWvgmG1HRibK15g
+* AI in Higher Education YouTube Playlist https://www.youtube.com/playlist?list=PLz6k7w7MM7W6DxJt1kdkytkGzIcxrJDFC
+* ChatGPT prompts for higher education https://alchemy.works/chatgpt-prompts/
 
 ## Create a Grading Rubric
 
