@@ -7,6 +7,14 @@
 
 ## Create a Grading Rubric
 
+### Turn a single category with a description into a 5-level grading rubric
+
+Prompt
+
+```
+Please turn this grading category into a 5 level rubric with descriptions of what is required to attain each level. Here is the category: "Abstract: Adequate information is provided to aid in searching and indexing including keywords and MeSH terms. Key information is summarized from sections of the text: local problem, methods, interventions, results, conclusions"
+```
+
 ### Create the Rubric with AI
 
 * https://bard.google.com/chat
