@@ -77,3 +77,11 @@ Prompt to create new questions:
 ```
 Please create your own set of 5 multiple choice questions for this [topic] exam. You will create questions with 5 possible responses, only 1 being correct. Take inspiration from the formatting of the example questions. Don't copy them, but use the same format. You will also provide feedback for each correct answer making reference to the [topic]. Make sure you provide the feedback to the correct answer.
 ```
+
+## Create Simulation Scenario
+
+Prompt:
+
+```
+Create a simulation scenario for respiratory arrest and include the following elements: "objectives, learning outcomes, chief complaint, patient information (gender, age weight, height), case presentation, past medical history, medications, allergies, events, actions taken by the participants, results of the events, starting vital signs, labs, imaging, diet, staff needed, equipment needed, simulator type, environment, debriefing method and evaluation."
+```
