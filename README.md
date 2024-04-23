@@ -4,6 +4,8 @@
 * https://airtable.com/appOfAfWh27rexTJp/shrCrbi4wMgXMyVt0/tblWvgmG1HRibK15g
 * AI in Higher Education YouTube Playlist https://www.youtube.com/playlist?list=PLz6k7w7MM7W6DxJt1kdkytkGzIcxrJDFC
 * ChatGPT prompts for higher education https://alchemy.works/chatgpt-prompts/
+* Prompts for education https://docs.google.com/document/d/1A-svc5so9dfuV75Hg4Vh8tNJ2qQgJwmWcbsDIA_WB_c/edit#heading=h.rvunq0ezd3ev
+  * Workshop slides for AI for education https://docs.google.com/presentation/d/1DRwahp5X3Oz-b6bagr5zGsjZx_ZPX4zX4Toxz2b6YUg/edit#slide=id.g2cbf27b404f_0_91
 
 ## Create a Grading Rubric
 
