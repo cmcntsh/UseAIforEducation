@@ -8,6 +8,30 @@
   * Workshop slides for AI for education https://docs.google.com/presentation/d/1DRwahp5X3Oz-b6bagr5zGsjZx_ZPX4zX4Toxz2b6YUg/edit#slide=id.g2cbf27b404f_0_91
 * ChatGPT for education https://openai.com/index/introducing-chatgpt-edu/
 
+## Microsoft Copilot
+
+The University of Utah has a business agreement with Microsoft.
+
+* Copilot works best with the Edge browser.
+* https://copilot.microsoft.com/
+* Sign in using university email in the format uNID@umail.utah.edu
+
+## Adobe Creative Cloud
+
+The University of Utah has access to Adobe Creative Cloud
+
+* visit https://www.adobe.com/home
+* Sign in using university email in the format uNID@utah.edu.
+* You may see a screen asking you to Select an Account. Select the Company or School account.
+* On the Creative Cloud home page, click Install Creative Cloud App link, under the Quick Links section.
+
+## MagicSchool
+
+You can sign up for a free account as an educator.
+
+* visit https://www.magicschool.ai/
+* Select "Sign up for free" and then select "An Educator."
+
 ## Create a Grading Rubric
 
 ### Turn a single category with a description into a 5-level grading rubric
