@@ -7,6 +7,7 @@
 * Prompts for education https://docs.google.com/document/d/1A-svc5so9dfuV75Hg4Vh8tNJ2qQgJwmWcbsDIA_WB_c/edit#heading=h.rvunq0ezd3ev
   * Workshop slides for AI for education https://docs.google.com/presentation/d/1DRwahp5X3Oz-b6bagr5zGsjZx_ZPX4zX4Toxz2b6YUg/edit#slide=id.g2cbf27b404f_0_91
 * ChatGPT for education https://openai.com/index/introducing-chatgpt-edu/
+* Canvas course Generative AI Resources for Educators https://utah.instructure.com/courses/1008461/pages/generative-ai-resources-for-educators?module_item_id=26016442
 
 ## Microsoft Copilot
 
